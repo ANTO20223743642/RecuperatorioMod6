@@ -1,0 +1,116 @@
+{
+  "Usuarios": [
+    {
+      "Nombrecompleto": "Antonio Camacho Arandia",
+      "Direccion": "Av. Simon Lopez #49",
+      "Celular": "77987186",
+      "terminado": true,
+      "id": 1
+    },
+    {
+      "Nombrecompleto": "Alberto Arandia Camacho",
+      "Direccion": "Av. Oquendo #149",
+      "Celular": "70739172",
+      "terminado": false,
+      "id": 2
+    },
+    {
+      "Nombrecompleto": "Juan Carlos Ostria",
+      "Direccion": "Calama",
+      "Celular": "74970563",
+      "terminado": false,
+      "id": 3
+    },
+    {
+      "Nombrecompleto": "Carmen Rivas Unzueta",
+      "Direccion": "San Martin y Jordan",
+      "Celular": "70745875",
+      "terminado": true,
+      "id": 4
+    },
+    {
+      "Nombrecompleto": "Patricia Rodriguez Lopez",
+      "Direccion": "Cruce Taquiña",
+      "Celular": "72205435",
+      "terminado": true,
+      "id": 5
+    }
+  ],
+  "Consumos": [
+    {
+      "id": 1,
+      "Cantidad": 10,
+      "FechaLectura": "15/02/2022",
+      "TotalPagar": 100,
+      "UsuariosId": 1,
+      "terminado": true
+    },
+    {
+      "id": 2,
+      "Cantidad": 22,
+      "FechaLectura": "15/02/2022",
+      "TotalPagar": 220,
+      "UsuariosId": 2,
+      "terminado": true
+    },
+    {
+      "id": 3,
+      "Cantidad": 5,
+      "FechaLectura": "15/02/2022",
+      "TotalPagar": 50,
+      "UsuariosId": 3,
+      "terminado": true
+    },
+    {
+      "id": 4,
+      "Cantidad": 8,
+      "FechaLectura": "15/02/2022",
+      "TotalPagar": 80,
+      "UsuariosId": 4,
+      "terminado": true
+    },
+    {
+      "id": 5,
+      "Cantidad": 9,
+      "FechaLectura": "15/02/2022",
+      "TotalPagar": 90,
+      "UsuariosId": 5,
+      "terminado": true
+    },
+    {
+      "id": 6,
+      "Cantidad": 11,
+      "FechaLectura": "11/03/2022",
+      "TotalPagar": 110,
+      "UsuariosId": 1
+    },
+    {
+      "id": 7,
+      "Cantidad": 15,
+      "FechaLectura": "11/03/2022",
+      "TotalPagar": 150,
+      "UsuariosId": 2
+    },
+    {
+      "id": 8,
+      "Cantidad": 12,
+      "FechaLectura": "11/03/2022",
+      "TotalPagar": 120,
+      "UsuariosId": 3
+    },
+    {
+      "id": 9,
+      "Cantidad": 7,
+      "FechaLectura": "11/03/2022",
+      "TotalPagar": 70,
+      "UsuariosId": 4
+    },
+    {
+      "id": 10,
+      "Cantidad": 6,
+      "FechaLectura": "11/03/2022",
+      "TotalPagar": 60,
+      "UsuariosId": 5
+    }
+  ]
+}
